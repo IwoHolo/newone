@@ -1,0 +1,78 @@
+#wszystko
+	{
+		width: 900px;
+		margin: auto;
+	}
+
+#naglowek
+	{
+		height: 150px;
+		width: 900px;
+		background-color: #fcc650;
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+        font-size: 55px;
+        text-align: center;
+        margin-top: 20px;
+	}
+
+	
+#cont
+	{
+		display: flex;
+		flex-direction: row;
+	}
+	
+	
+#menu
+	{
+		margin-top: 10px;
+		height: 500px;
+		width: 150px;
+		background-color: #51e8b5; 
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+#menu li
+{
+	list-style-type: none;
+	text-align: auto;
+	margin-top: 75px;
+	font-size: 150%;
+}
+
+
+#menu2
+	{
+		margin-top: 10px;
+		margin-left: 10px;
+		height: 500px;
+		width: 740px;
+		background-color: #e5e5e5;
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+        font-size: 20px;	
+    }
+	
+#stopka
+
+	{
+		margin-top: 10px;
+		height: 150px;
+		width: 900px;
+		background-color: #8c6fbc;
+		border-top-right-radius: 5px;
+		border-top-left-radius: 5px;
+		border-bottom-right-radius: 5px;
+		border-bottom-left-radius: 5px;
+	}
+	
+
+	
+	
